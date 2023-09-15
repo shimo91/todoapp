@@ -1,0 +1,55 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#loginbody
+{
+    background-image: url('../images/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    padding: 50px;
+
+}
+
+.form-login
+{
+    padding: 10% 10%;
+    background-color: white;
+}
+.form-control
+{
+    margin-bottom: 2%;
+}
+#loginbtn
+{
+    width: 100%;
+}
+#err
+{
+    color: red;
+    font-size: 10px;
+}
+
+#indexbody
+{
+    display: none;
+}
+
+#atodo 
+{
+    cursor: pointer;
+}
+#todo_container
+{
+    display: none;
+}
+#todo
+{
+    text-align: justify;
+}
+#logout
+{
+    cursor: pointer;
+}
